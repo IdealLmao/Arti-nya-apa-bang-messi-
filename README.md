@@ -1,2 +1,2 @@
-# HackYoutube
-Hack other channel YouTube with your own risk!
+# IMPORTANT
+DO NOT EXCUTE YT2 SHELL!
