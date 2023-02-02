@@ -1,0 +1,31 @@
+clear
+echo -e "ㄚㄖㄩ〸ㄩ⻏🝗 卄闩⼕长";
+sleep 2
+lsof
+sleep 2
+id
+hexdump  hack_youtube
+printenv
+sleep 2
+echo -e "\e[32mDownloading module...\e[0m";
+sleep 7
+echo -e "\e[32mDone!\e[0m";
+sleep 2
+clear
+echo  -e  "\033[91m[!]\033[97m tools \033[91m丫ㄖㄩ〸ㄩ⻏🝗 卄闩⼕长!\033[0m \033[97mby owner *\033[0m\n"
+read -p 'Key { To make sure that you are 13+ } :' userinput1;
+#
+if [ "${userinput1:-}" = "YouArePretty10" ]
+then
+	echo -e "\e[32mvalid key!\e[0m";
+fi
+if [ "${userinput1:-}" != "YouArePretty10" ]
+then
+	echo -e "\e[31minvalid key!
+
+{ Only supported indonesia E-wallet } 
+buy at +62895332355556\e[0m";
+fi
+echo -e "\e[32m[+] Moving different files ...\e[0m";
+sleep 3
+bash  YT2.sh
